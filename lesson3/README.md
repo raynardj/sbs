@@ -8,3 +8,4 @@
 * How to use tuple to get multiple function return.
 * Type casting ```int256``` to ```uint256```
 * How to avoid integer overflow.
+* How midfier works? it's analogy to python
